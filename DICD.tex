@@ -1,0 +1,37 @@
+	\documentclass[10pt,a4paper]{report}
+	\usepackage{graphicx}
+	\usepackage[utf8]{inputenc}
+	\usepackage{amssymb,amsmath}
+	\usepackage{geometry}
+	\usepackage[bookmarks=true]{hyperref}
+	\usepackage{bookmark}
+    \usepackage{wrapfig}
+	%\geometry{article}
+	\usepackage[ampersand]{easylist}	
+    \newcommand\tab[1][1cm]{\hspace*{#1}}
+
+\hypersetup{
+	pdftitle={Digital integrated circuit design},%
+	pdfauthor={Matteo Baldo},%
+	pdfsubject={Digital integrated circuit design},%
+	pdfkeywords={},%
+	colorlinks=true,%
+	linkcolor=blue,%
+	linktocpage=true,%
+	pageanchor=true
+}
+
+
+\begin{document}
+
+\input{Chapter0}        % Intro page and index
+%------------------------------------------------------------------------%
+\input{Chapter1}        %Figures of merit in a digital integrated circuit
+%------------------------------------------------------------------------%
+\input{Chapter2}        %The MOS transistor
+%------------------------------------------------------------------------%
+\input{Chapter3}        %The CMOS inverter
+%------------------------------------------------------------------------%
+
+
+\end{document}
