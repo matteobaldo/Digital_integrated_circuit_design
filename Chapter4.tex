@@ -1,0 +1,28 @@
+\chapter{Inverter power consumption}
+\section{Dynamic power consumtion}
+Only in case of charge of a capacitance so in a LOW to HIGH transition at the output of an inverter. \\
+The most general formula for the power dissipated in this process is
+\begin{equation}
+P_{dyn}=C_LV_{DD}^2f_{1\rightarrow 0}
+\end{equation}
+where $f_{1\rightarrow 0}$ is the frequency of the 0-1 transition at the output node. This term can be deconposed in 2 factor the clock of the circuit and the switching activity $\alpha_{SW}$ that is the probability to have a transition from 0 to 1 at the output.\\
+\vspace{2mm}
+\tab In case of a square wave we have 
+\begin{equation}
+f_{1\rightarrow 0}=f_{clk}\cdot \alpha_{SW}=f_{clk}\cdot \frac{1}{2}
+\end{equation}
+\tab In case of a randoom signal 
+\begin{equation}
+f_{1\rightarrow 0}=f_{clk}\cdot \alpha_{SW}=f_{clk}\cdot \frac{1}{4}
+\end{equation}
+\vspace{5mm}
+In the end we can write this 2 final equation for dynamic power dissipation
+\begin{equation}
+P_{dyn}=C_LV_{DD}^2 f_{clk}\cdot \alpha_{SW}
+\end{equation}
+\begin{equation}
+E_{dyn}=C_LV_{DD}^2\alpha_{SW}
+\end{equation}
+In case of a chain of inverters $C_L$ is the sum of all the capacitance at the output nodes of the single inverters.\\
+
+
