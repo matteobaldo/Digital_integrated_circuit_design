@@ -143,3 +143,19 @@ The optimum number of division N (and so the number of inverter to be added N-1)
 \begin{equation}
 N=\sqrt{\frac{R_wC_w}{4C_{int}R_{eq}}}=L\sqrt{\frac{rc}{4C_{int}R_{eq}}}
 \end{equation}
+And the contribution to $\tau_p$ of the wire ($R_wC_w/2$) decreases by a factor N.
+This optimization of the line it's indipendent form the size of the stage present in the circuit.\\
+
+\section{Inductance}
+
+Parasitic inductances can be neglected if the time of flight of the signal is much less than the minimum propagation delay of the circuit. With a line of length L and the maximum propagation delay of $\tau_{max}$ this translates as 
+\begin{equation}
+t_{flight}=\frac{L}{\frac{c}{\sqrt{\mu \varepsilon}}}\ \  << \ \ \tau_{max}     
+\end{equation}
+where tipically $\varepsilon=3.9$.\\
+\vspace{5mm}
+Another condition that makes the inductance negligible is to have
+\begin{equation}
+L\ \ <<\ \ \frac{1}{r}\sqrt{\frac{l}{c}}
+\end{equation}
+where r, l and c are the specific resistance inductance and capacitance.\\
