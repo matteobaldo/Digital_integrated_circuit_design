@@ -26,4 +26,32 @@ E_{dyn}=C_LV_{DD}^2\alpha_{SW}
 \end{equation}
 In case of a chain of inverters $C_L$ is the sum of all the capacitance at the output nodes of the single inverters.\\
 
+\section{Cross-conduction power consumption}
+Due to the finite slope of the input signal there is a finite time when both p-mos and -mos are on creating a low impedance path between $V_{DD}$ and GND.\\
+
+\centering
+\includegraphics[width=0.7\textwidth]{C4_1.png}\\
+\raggedright
+
+Defining $T_in$ as the time needed by the input signal to transition from GND to V DD and vice-versa and $I_{peak}$ the velocity saturation current of the n-mos we can compute the cross-conduction energy as (assuming $V_{tp}=V_{tn}$) 
+\begin{equation}
+E_{cc}= \frac{1}{2} V_{DD}I_{peak}\cdot 0.68 \cdot T_{in}
+\end{equation}
+If we consider an input signal with an update frequency of f with continuos switch HL LH the power is 
+\begin{equation}
+P_{cc}=\frac{V_{DD}I_{peak} \cdot 0.68 \cdot T_{in}}{2} f
+\end{equation}
+
+\vspace{5mm}
+
+With capacitve loads the cross-conduction power becomes smaller than without.\\ 
+The cross conduction power can be neglected when 
+\begin{equation}
+T_{in}<10\tau_p
+\end{equation}
+with $\tau_p$ propagation delay of the stage.\\
+
+
 \section{Static power consumption}
+It's due to the subthreshold current of the MOS devices.
+
