@@ -108,12 +108,54 @@ in this way the dimension of the j-th stage will be
 \begin{equation}
 s_j=\frac{s_1g_1}{g_j}\prod_{i=1}^{j-1}f_i
 \end{equation}
+or better we can assest every dimension form the first stage to the last one using the formula of $h_{opt}$
+\begin{equation}
+h_{opt}=f_ig_i \ \ \ \forall i
+\end{equation}
+using this formula on the i-th stage we will end up with the size of the i+1 stage.
+
+\subsection{Branching}
+In the case illustrated in figure we have a so called branching in the path.
+
+\centering
+\includegraphics[width=0.35\textwidth]{C6_6.png}\\
+\raggedright
+
+There are more stages in parallel (NAND in this case). Under the assumption that all the parallel elements have the same dimensions (all NAND with equal size) we can define the branching factor refering to the extrinsic capacitance as b
+\begin{equation}
+b=\frac{C_{path}+C_{off-path}}{C_{path}}
+\end{equation}
+that in practice is the number of stages in parallel (3 in our case).\\
+\vspace{5mm}
+In this cases we can optimize the chain introducing the path branching factor B
+\begin{equation}
+B=\prod_{i=1}^N b
+\end{equation}
+than the way to optimize the chain is the same as before but the H is now defined as 
+\begin{equation}
+H=FGB
+\end{equation}
+the number of stages n does not takes into account the braching stages and so to find the size of the single stages we can use the relation
+\begin{equation}
+h_{opt}=\sqrt[n]{H}=f_ig_ib_i
+\end{equation}
 
 
+\section{Power dissipation}
+The consideration on power dissipation are the same for the simple NOT circuits we've done in the previous chapter. The difficult topic here is to assest the parameter $\alpha_{sw}$ and to reason if some states are correleted each other.
+\vspace{5mm}
+Assuming that the inputs are independent and uniformly distributed, any N-input static gate has a transition probability that corresponds to
+\begin{equation}
+\alpha_{sw}=\frac{N_0N_1}{2^{2N}}=\frac{N_0(2^N-N_0)}{2^{2N}}
+\end{equation}
+where $N_0$ and $N_1$ are the number of zero and one, respectively, in the truth table of the logic function.
+\vspace{5mm}
+Here follows an example where the above formula doesn't work since the 2 inputs are correlated
 
 
-
-
+\centering
+\includegraphics[width=0.7\textwidth]{C6_7.png}\\
+\raggedright
 
 
 
