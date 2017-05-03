@@ -27,8 +27,9 @@ The parallel-plate capacitance is reported in the white rows expressed in $aF/\m
 \centering
 \includegraphics[width=0.8  \textwidth]{C5_2.png}\\
 \raggedright
+When using this table we have always to look what tipe of metal is our wire (rows) and in what material is made the ground plane or the other wire (columns) in order to get the correct values.\\
 
-\vspace{10mm}
+\vspace{3mm}
 To evaluate che capacitance of 2 nearby wires implemented in the same layer at minimum distance we get the following table with the vales of the capacitances for unit lenght expressed in $aF/\mu m$ \\
 \vspace{3mm}
 
@@ -143,7 +144,12 @@ The optimum number of division N (and so the number of inverter to be added N-1)
 \begin{equation}
 N=\sqrt{\frac{R_wC_w}{4C_{int}R_{eq}}}=L\sqrt{\frac{rc}{4C_{int}R_{eq}}}
 \end{equation}
-And the contribution to $\tau_p$ of the wire ($R_wC_w/2$) decreases by a factor N.
+And the contribution to $\tau_p$ of the wire ($R_wC_w/2$) decreases by a factor N.\\
+The propagation delay of an optimized line that is broken in N peices is 
+\begin{equation}
+\tau_p=\ln(2) N \left(R_{eq}C_{int}+(R_{eq}+\frac{R_w}{2N})\frac{C_w}{N}+(R_{eq}+\frac{R_w}{N})C_{int}\right)
+\end{equation}
+In this expression we supposed inverters with the same size and $\gamma=1$.\\
 This optimization of the line it's indipendent form the size of the stage present in the circuit.\\
 
 \section{Inductance}
