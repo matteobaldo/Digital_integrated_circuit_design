@@ -49,6 +49,16 @@ We can use two solutions to avoid this drawback.\\
 \includegraphics[width=0.45\textwidth]{C9_3.png}\\
 \raggedright
 
+\vspace{5mm}
+
+If we get a leakage current of ${I^*}$ and no load applied to the output the drop rate of the ouput voltage is
+\begin{equation}
+\frac{I^*}{C_{int}}=\gamma
+\end{equation}
+and the minimum frequency at whitch we can go is (considering $V_{DD}/2$ as drop limit if the capacitance)
+\begin{equation}
+f=\frac{1}{2 \frac{V_{DD}/2}{\gamma}}
+\end{equation}
 
 \subsection{Charge sharing}
 This is a problem of the inter-nodes parasitic capacitances that until now we've negleced.\\
