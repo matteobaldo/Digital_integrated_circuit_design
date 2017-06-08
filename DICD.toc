@@ -62,3 +62,16 @@
 \contentsline {subsection}{\numberline {8.3.1}Domino Logic}{36}{subsection.8.3.1}
 \contentsline {subsection}{\numberline {8.3.2}NP-CMOS dynamic}{37}{subsection.8.3.2}
 \contentsline {chapter}{\numberline {9}Scheme of all the logic families}{38}{chapter.9}
+\contentsline {chapter}{\numberline {10}Sequential circuits}{40}{chapter.10}
+\contentsline {section}{\numberline {10.1}Finite state machines (FSM)}{41}{section.10.1}
+\contentsline {subsection}{\numberline {10.1.1}Max-delay constraint}{42}{subsection.10.1.1}
+\contentsline {subsection}{\numberline {10.1.2}Min-delay constraint}{42}{subsection.10.1.2}
+\contentsline {section}{\numberline {10.2}Static memory devices}{42}{section.10.2}
+\contentsline {subsection}{\numberline {10.2.1}Multiplexer-based static latch}{42}{subsection.10.2.1}
+\contentsline {subsection}{\numberline {10.2.2}Multiplexer-based static flip-flop}{43}{subsection.10.2.2}
+\contentsline {subsection}{\numberline {10.2.3}Time constraints rigorous definitions}{44}{subsection.10.2.3}
+\contentsline {subsection}{\numberline {10.2.4}Brute force filp-flop}{44}{subsection.10.2.4}
+\contentsline {subsection}{\numberline {10.2.5}Clock overlap solutions}{44}{subsection.10.2.5}
+\contentsline {section}{\numberline {10.3}Dynamic memory devices}{44}{section.10.3}
+\contentsline {subsection}{\numberline {10.3.1}$C^2 MOS$}{44}{subsection.10.3.1}
+\contentsline {subsection}{\numberline {10.3.2}True single phase clock TSPC flip-flops}{44}{subsection.10.3.2}
