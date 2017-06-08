@@ -71,7 +71,8 @@
 \contentsline {subsection}{\numberline {10.2.2}Multiplexer-based static flip-flop}{43}{subsection.10.2.2}
 \contentsline {subsection}{\numberline {10.2.3}Time constraints rigorous definitions}{44}{subsection.10.2.3}
 \contentsline {subsection}{\numberline {10.2.4}Brute force filp-flop}{44}{subsection.10.2.4}
-\contentsline {subsection}{\numberline {10.2.5}Clock overlap solutions}{44}{subsection.10.2.5}
-\contentsline {section}{\numberline {10.3}Dynamic memory devices}{44}{section.10.3}
-\contentsline {subsection}{\numberline {10.3.1}$C^2 MOS$}{44}{subsection.10.3.1}
-\contentsline {subsection}{\numberline {10.3.2}True single phase clock TSPC flip-flops}{44}{subsection.10.3.2}
+\contentsline {subsection}{\numberline {10.2.5}Clock overlap}{44}{subsection.10.2.5}
+\contentsline {section}{\numberline {10.3}Dynamic memory devices}{45}{section.10.3}
+\contentsline {subsection}{\numberline {10.3.1}$C^2 MOS$}{45}{subsection.10.3.1}
+\contentsline {subsection}{\numberline {10.3.2}True single phase clock TSPC flip-flops}{46}{subsection.10.3.2}
+\contentsline {section}{\numberline {10.4}Scheme of all flip-flops implementations}{46}{section.10.4}

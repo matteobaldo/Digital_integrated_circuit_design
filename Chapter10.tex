@@ -165,69 +165,96 @@ To reduce the number of transistors involved in a flip-flop (and also the proble
 The first latch can be written only if the first trasmission gate and the driver circuit are stroger than the feedback inverter to change the state at the input of $I_1$.\\
 Moreover there is a problem of "reverse conduction". When the clock is high the second trasmission gate is closed and there can be a conflict between the first and the second stage; $I_4$ has to be sized in a way that can't overwhelm $I_1$ (if this happen the first loop can change it's state).\\
 
-\subsection{Clock overlap solutions}
+\subsection{Clock overlap}
 
+Due to different paths the clk and the $\bar{clk}$ signals aren't sincronized but they have a period of overlap (0-0 or 1-1 overalap) that can cause wrong toggles (due to critical races that is that the output is connected to the input in 1-1 overlap) or undefined states (due to 0-0 overlap).\\
+\vspace{5mm}
+A solution to solve the 1-1 overlap is the adoption of the following circuit to generate the 2 clock signals
 
+\centering
+\includegraphics[width=0.5\textwidth]{C10_13.png}\\
+\raggedright
+
+\centering
+\includegraphics[width=0.5\textwidth]{C10_14.png}\\
+\raggedright
+
+There is never a period when both signals are high but on the other hand there are a lot of 0-0 overlaps that can destroy the state if this condition last for too long.\\
 
 \section{Dynamic memory devices}
+This memory elements store the data as chage across a capacitance as the dynamics gates. The main drawback is that charge may be lost if the data is not refreshed for a long time.\\
+The classical master-slave implementation of a flip-flop reduces to 8 transistors as shown in figure (the capacitance are the parasitic of the trasmission gate and of the inverter)
+
+\vspace{2mm}
+\centering
+\includegraphics[width=0.7\textwidth]{C10_15.png}\\
+\raggedright
+\vspace{2mm}
+
+The sensitive times related to this implementation are
+\begin{itemize}
+\item 
+{\bf Set-up time}\\
+The time needed to the trasmission gate to pass the data to the node "1"
+\begin{equation}
+t_{su}=t_{tx}
+\end{equation}
+
+\item 
+{\bf Propagation delay}\\
+Is the time that the data use to pass form the node "1" to the output (the transition throught the inverter has not yet passed)
+\begin{equation}
+t_{cq}=t_{inv}+2t_{tx}
+\end{equation}
+
+\item
+{\bf Hold time}\\
+The hold time is 0
+
+\end{itemize}
+\vspace{5mm}
+During both clock overlaps in this gate we get a direct connection between in and out.\\
+The 0-0 overlap can be avoided making the overlap period small enough that the signal does not reach the output 
+\begin{equation}
+t_{overlap-00}\le t_{inv}+2t_{tx}
+\end{equation} 
+The 1-1 overlap can be avoided establishing a hold time large enough 
+\begin{equation}
+t_{overlap-11}\le t_{hold}
+\end{equation}
 
 \subsection{$C^2 MOS$}
+This is a dynamic solution insensitive to clock overlap problems. $C^2$ stand for clocked cmos and the implementation is shown in figure 
+
+\centering
+\includegraphics[width=0.5\textwidth]{C10_16.png}\\
+\raggedright
+
+The two latches are tristate inverters : the output node can be high low or at high impedance state depending on the inputs. The figure represents a positive edge triggered ff.\\
+The only problem that arise is just after a 1-1 overlap as soon as $\bar{clk}$ transit back to 0 the Q node is turned up to $V_{DD}$. This can be solved only imposing a hold time constraint.\\
 
 
 \subsection{True single phase clock TSPC flip-flops}
+This implementation avoid the clock overlap problem by using only the clok signal avoiding it's complement relying on the fact that pmos and nmos are on for different voltages.
+
+\centering
+\includegraphics[width=0.5\textwidth]{C10_17.png}\\
+\raggedright
+
+When clk is high the circuit is a cascade of two inverters and when the clock is low it's an open circuit in the positive latch and vice versa for the negative so that no direct path can be formed.\\
+\vspace{5mm}
+
+
+To spare transistors we can use the so called "split out" scheme 
+
+\centering
+\includegraphics[width=0.5\textwidth]{C10_18.png}\\
+\raggedright
+
+The drawback in this case is that the node A cannot feature a full swing leading to worst performance in terms of propagation delay.\\
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+\section{Scheme of all flip-flops implementations}
+\includepdf[pages=1]{ff.pdf}
 
