@@ -59,11 +59,12 @@ There are some importants times that has to be considered when we deal with memo
 
 For a generic FSM we can underline two time constraints that have to be respected for the circuit to work.\\
 
+\subsection{Max-delay constraint}
+
 \centering
 \includegraphics[width=0.5\textwidth]{C10_6.png}\\
 \raggedright
 
-\subsection{Max-delay constraint}
 Denoting T as the clock period and $t_{p,logic}^{max}$ as the maximum delay of the logic, we have to ensure that 
 \begin{equation}
 t_{cq}+t_{su}+ t_{p,logic}^{max} \le T
@@ -80,6 +81,43 @@ The hold constraint says that the signal cannot propagate throught the flip-flop
 t_{cq}+ t_{p,logic}^{min} \ge t_{hold}
 \end{equation}
 
+\subsection{Skew}
+If we have a non ideal line of the clock that connect the input group of flip-flops and the output group we encounter a phenomenon called skew that affects the delay constraints of our circuit.\\
+Using $t_w$ as the propagation delay of the line we can consider two cases
+
+\subsubsection{Positive skew}
+
+\centering
+\includegraphics[width=0.5\textwidth]{C10_6_1.png}\\
+\raggedright
+
+In the case that the clok propagates in the same direction of the signal we are in the case of positive skew.\\
+The max-delay constraint becomes
+\begin{equation}
+T_{max}=t_{cq}+t_{su}+ t_{p,logic}^{max}-t_w
+\end{equation}
+and the min-delay constraint
+\begin{equation}
+t_{hold} \le t_{cq}+ t_{p,logic}^{min} -t_w
+\end{equation}
+We improve the maximum clock frequency but the hold constraint becomes more stringent.
+
+\subsubsection{Negative skew}
+
+\centering
+\includegraphics[width=0.5\textwidth]{C10_6_2.png}\\
+\raggedright
+
+In the case that the clok propagates in the opposite direction of the signal we are in the case of negative skew.\\
+The max-delay constraint becomes
+\begin{equation}
+T_{max}=t_{cq}+t_{su}+ t_{p,logic}^{max}+t_w
+\end{equation}
+and the min-delay constraint
+\begin{equation}
+t_{hold} \le t_{cq}+ t_{p,logic}^{min}+t_w
+\end{equation}
+We decrease the maximum clock frequency but the hold constraint becomes less stringent.
 
 \section{Static memory devices}
 

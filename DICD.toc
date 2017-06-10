@@ -66,13 +66,16 @@
 \contentsline {section}{\numberline {10.1}Finite state machines (FSM)}{41}{section.10.1}
 \contentsline {subsection}{\numberline {10.1.1}Max-delay constraint}{42}{subsection.10.1.1}
 \contentsline {subsection}{\numberline {10.1.2}Min-delay constraint}{42}{subsection.10.1.2}
-\contentsline {section}{\numberline {10.2}Static memory devices}{42}{section.10.2}
-\contentsline {subsection}{\numberline {10.2.1}Multiplexer-based static latch}{42}{subsection.10.2.1}
-\contentsline {subsection}{\numberline {10.2.2}Multiplexer-based static flip-flop}{43}{subsection.10.2.2}
-\contentsline {subsection}{\numberline {10.2.3}Time constraints rigorous definitions}{44}{subsection.10.2.3}
-\contentsline {subsection}{\numberline {10.2.4}Brute force filp-flop}{44}{subsection.10.2.4}
-\contentsline {subsection}{\numberline {10.2.5}Clock overlap}{44}{subsection.10.2.5}
-\contentsline {section}{\numberline {10.3}Dynamic memory devices}{45}{section.10.3}
-\contentsline {subsection}{\numberline {10.3.1}$C^2 MOS$}{45}{subsection.10.3.1}
-\contentsline {subsection}{\numberline {10.3.2}True single phase clock TSPC flip-flops}{46}{subsection.10.3.2}
-\contentsline {section}{\numberline {10.4}Scheme of all flip-flops implementations}{46}{section.10.4}
+\contentsline {subsection}{\numberline {10.1.3}Skew}{42}{subsection.10.1.3}
+\contentsline {subsubsection}{Positive skew}{42}{section*.2}
+\contentsline {subsubsection}{Negative skew}{43}{section*.3}
+\contentsline {section}{\numberline {10.2}Static memory devices}{43}{section.10.2}
+\contentsline {subsection}{\numberline {10.2.1}Multiplexer-based static latch}{44}{subsection.10.2.1}
+\contentsline {subsection}{\numberline {10.2.2}Multiplexer-based static flip-flop}{44}{subsection.10.2.2}
+\contentsline {subsection}{\numberline {10.2.3}Time constraints rigorous definitions}{45}{subsection.10.2.3}
+\contentsline {subsection}{\numberline {10.2.4}Brute force filp-flop}{45}{subsection.10.2.4}
+\contentsline {subsection}{\numberline {10.2.5}Clock overlap}{45}{subsection.10.2.5}
+\contentsline {section}{\numberline {10.3}Dynamic memory devices}{46}{section.10.3}
+\contentsline {subsection}{\numberline {10.3.1}$C^2 MOS$}{47}{subsection.10.3.1}
+\contentsline {subsection}{\numberline {10.3.2}True single phase clock TSPC flip-flops}{47}{subsection.10.3.2}
+\contentsline {section}{\numberline {10.4}Scheme of all flip-flops implementations}{48}{section.10.4}
