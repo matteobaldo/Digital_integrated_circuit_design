@@ -291,6 +291,79 @@ To spare transistors we can use the so called "split out" scheme
 
 The drawback in this case is that the node A cannot feature a full swing leading to worst performance in terms of propagation delay.\\
 
+\section{Counters}
+Conunters are finite states machines that counts up or down until a certain value.\\
+The necessary flip-flops are equal to the number of bits that are necessay to code the decimal number in binary.\\
+We can distinguish in two categories of counters: synchronous and asynchronous.\\
+
+\subsection{Synchronous counters}
+In synchronous counters all flip-flops are driven by the same clock signal. Taking in example a modulus 5 up-counter (that means it conts 000 001 010 011 100) adopting positive edge triggered flip-flops we can design the state diagram of our circuit as 
+
+\centering
+\includegraphics[width=0.35\textwidth]{C10_19.png}\\
+\raggedright
+
+Than we can represent in a table the corrispondance of the next states to the present ones and derive the expressions for the next states like
+
+\centering
+\includegraphics[width=0.5\textwidth]{C10_20.png}\\
+\raggedright
+
+We have used the don't care states to simplify the expressions.\\
+After this passage we have to properly connect the 3 flip-flops considering that the D of the i-th element is the i-th next state and the Q is the present state.
+
+\centering
+\includegraphics[width=0.35\textwidth]{C10_21.png}\\
+\raggedright
+
+\subsection{Asynchronous counters}
+In asynchronos counters we use a particular configuration of flip flops with the $\bar{Q}$ signal attached to D so that the Q output have the same shape of the clock of the flip-flop but with half the frequency (frequency divider).\\
+
+\centering
+\includegraphics[width=0.15\textwidth]{C10_22.png}\\
+\raggedright
+
+Using negative edge flip-flops we can make upcounters cascading the flip-flops so that the Q signal of the n-1 ff is the clock signal of the n-th ff.
+To restart the count we have to use the set/reset inputs of the flip-flops controlled by an appropriate  logic following the state diagram.\\
+Here in example a mod-5 up counter
+
+
+\centering
+\includegraphics[width=0.5\textwidth]{C10_23.png}\\
+\raggedright
+
+
+\centering
+\includegraphics[width=0.5\textwidth]{C10_24.png}\\
+\raggedright
+
+To make up-counters we have to use negative edge triggered flip-flops and to make down-counters positive edge triggered flip-flops.\\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 \section{Scheme of all flip-flops implementations}

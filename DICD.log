@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.8.16)  10 JUN 2017 17:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.8.16)  11 JUN 2017 10:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -682,115 +682,115 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 2.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [3
 
-])
+] [4])
 \tf@toc=\write3
 \openout3 = `DICD.toc'.
 
 )
-(./Chapter2.tex [4]
+(./Chapter2.tex [5]
 Chapter 1.
-<C2_1.png, id=189, 572.1375pt x 377.41pt>
+<C2_1.png, id=200, 572.1375pt x 377.41pt>
 File: C2_1.png Graphic file (type png)
  <use C2_1.png>
 Package pdftex.def Info: C2_1.png used on input line 6.
 (pdftex.def)             Requested size: 146.39133pt x 96.56364pt.
 
-<C2_2.png, id=190, 305.14pt x 422.57875pt>
+<C2_2.png, id=201, 305.14pt x 422.57875pt>
 File: C2_2.png Graphic file (type png)
  <use C2_2.png>
 Package pdftex.def Info: C2_2.png used on input line 16.
 (pdftex.def)             Requested size: 125.47737pt x 173.76779pt.
 
-<C2_3.png, id=191, 459.7175pt x 266.9975pt>
+<C2_3.png, id=202, 459.7175pt x 266.9975pt>
 File: C2_3.png Graphic file (type png)
  <use C2_3.png>
 Package pdftex.def Info: C2_3.png used on input line 23.
 (pdftex.def)             Requested size: 209.12683pt x 121.4596pt.
- [5
+ [6
 
- <./C2_1.png> <./C2_2.png>] <C2_4.png, id=197, 576.1525pt x 75.28125pt>
+ <./C2_1.png> <./C2_2.png>] <C2_4.png, id=207, 576.1525pt x 75.28125pt>
 File: C2_4.png Graphic file (type png)
  <use C2_4.png>
 Package pdftex.def Info: C2_4.png used on input line 29.
 (pdftex.def)             Requested size: 292.77629pt x 38.25623pt.
 
-<C2_5.png, id=198, 254.9525pt x 42.1575pt>
+<C2_5.png, id=208, 254.9525pt x 42.1575pt>
 File: C2_5.png Graphic file (type png)
  <use C2_5.png>
 Package pdftex.def Info: C2_5.png used on input line 37.
 (pdftex.def)             Requested size: 146.39133pt x 24.20755pt.
 
-<C2_6.png, id=199, 186.6975pt x 67.25125pt>
+<C2_6.png, id=209, 186.6975pt x 67.25125pt>
 File: C2_6.png Graphic file (type png)
  <use C2_6.png>
 Package pdftex.def Info: C2_6.png used on input line 47.
 (pdftex.def)             Requested size: 146.39133pt x 52.73486pt.
 
-<C2_7.png, id=200, 451.6875pt x 158.5925pt>
+<C2_7.png, id=210, 451.6875pt x 158.5925pt>
 File: C2_7.png Graphic file (type png)
  <use C2_7.png>
 Package pdftex.def Info: C2_7.png used on input line 56.
 (pdftex.def)             Requested size: 209.12683pt x 73.42772pt.
- [6 <./C2_3.png> <./C2_4.png> <./C2_5.png> <./C2_6.png> <./C2_7.png>]) (./Chapt
-er3.tex [7]
+ [7 <./C2_3.png> <./C2_4.png> <./C2_5.png> <./C2_6.png> <./C2_7.png>]) (./Chapt
+er3.tex [8]
 Chapter 2.
-<C3_1.png, id=212, 318.18875pt x 328.22626pt>
+<C3_1.png, id=222, 318.18875pt x 328.22626pt>
 File: C3_1.png Graphic file (type png)
  <use C3_1.png>
 Package pdftex.def Info: C3_1.png used on input line 4.
 (pdftex.def)             Requested size: 146.39133pt x 151.00594pt.
- [8
+ [9
 
  <./C3_1.png>]
-<C3_2.png, id=219, 390.45876pt x 356.33125pt>
+<C3_2.png, id=229, 390.45876pt x 356.33125pt>
 File: C3_2.png Graphic file (type png)
  <use C3_2.png>
 Package pdftex.def Info: C3_2.png used on input line 28.
 (pdftex.def)             Requested size: 146.39133pt x 133.5967pt.
 
-<C3_3.png, id=220, 323.2075pt x 92.345pt>
+<C3_3.png, id=230, 323.2075pt x 92.345pt>
 File: C3_3.png Graphic file (type png)
  <use C3_3.png>
 Package pdftex.def Info: C3_3.png used on input line 39.
 (pdftex.def)             Requested size: 146.39133pt x 41.8254pt.
 
-<C3_4.png, id=221, 155.58125pt x 122.4575pt>
+<C3_4.png, id=231, 155.58125pt x 122.4575pt>
 File: C3_4.png Graphic file (type png)
  <use C3_4.png>
 Package pdftex.def Info: C3_4.png used on input line 45.
 (pdftex.def)             Requested size: 62.73549pt x 49.37825pt.
 
-<C3_5.png, id=222, 149.55875pt x 65.24374pt>
+<C3_5.png, id=232, 149.55875pt x 65.24374pt>
 File: C3_5.png Graphic file (type png)
  <use C3_5.png>
 Package pdftex.def Info: C3_5.png used on input line 53.
 (pdftex.def)             Requested size: 62.73549pt x 27.36833pt.
 
-<C3_6.png, id=223, 349.305pt x 285.065pt>
+<C3_6.png, id=233, 349.305pt x 285.065pt>
 File: C3_6.png Graphic file (type png)
  <use C3_6.png>
 Package pdftex.def Info: C3_6.png used on input line 66.
 (pdftex.def)             Requested size: 146.39133pt x 119.46985pt.
- [9 <./C3_2.png> <./C3_3.png> <./C3_4.png> <./C3_5.png>] <C3_7.png, id=230, 351
-.3125pt x 115.43124pt>
+ [10 <./C3_2.png> <./C3_3.png> <./C3_4.png> <./C3_5.png>]
+<C3_7.png, id=240, 351.3125pt x 115.43124pt>
 File: C3_7.png Graphic file (type png)
-
-<use C3_7.png>
+ <use C3_7.png>
 Package pdftex.def Info: C3_7.png used on input line 78.
 (pdftex.def)             Requested size: 146.39133pt x 48.10033pt.
- <C3_8.png, id=231, 208.78pt x 155.58125pt>
+
+<C3_8.png, id=241, 208.78pt x 155.58125pt>
 File: C3_8.png Graphic file (type png)
  <use C3_8.png>
 Package pdftex.def Info: C3_8.png used on input line 88.
 (pdftex.def)             Requested size: 62.73549pt x 46.74832pt.
 
-<C3_9.png, id=232, 166.6225pt x 75.28125pt>
+<C3_9.png, id=242, 166.6225pt x 75.28125pt>
 File: C3_9.png Graphic file (type png)
  <use C3_9.png>
 Package pdftex.def Info: C3_9.png used on input line 92.
 (pdftex.def)             Requested size: 46.00815pt x 20.78682pt.
 
-<C3_10.png, id=233, 603.25375pt x 403.5075pt>
+<C3_10.png, id=243, 603.25375pt x 403.5075pt>
 File: C3_10.png Graphic file (type png)
  <use C3_10.png>
 Package pdftex.def Info: C3_10.png used on input line 99.
@@ -808,7 +808,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 109.
 
-[10 <./C3_6.png> <./C3_7.png> <./C3_8.png> <./C3_9.png> <./C3_10.png>]
+[11 <./C3_6.png> <./C3_7.png> <./C3_8.png> <./C3_9.png> <./C3_10.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 139.
@@ -825,132 +825,132 @@ File: C3_10.png Graphic file (type png)
 <use C3_10.png>
 Package pdftex.def Info: C3_10.png used on input line 159.
 (pdftex.def)             Requested size: 188.21288pt x 125.8926pt.
- [11] <C3_11.png, id=256, 528.97626pt x 100.375pt>
+ [12] <C3_11.png, id=266, 528.97626pt x 100.375pt>
 File: C3_11.png Graphic file (type png)
 
 <use C3_11.png>
 Package pdftex.def Info: C3_11.png used on input line 165.
 (pdftex.def)             Requested size: 146.39133pt x 27.77704pt.
- <C3_12.png, id=257, 534.99875pt x 101.37875pt>
+ <C3_12.png, id=267, 534.99875pt x 101.37875pt>
 File: C3_12.png Graphic file (type png)
  <use C3_12.png>
 Package pdftex.def Info: C3_12.png used on input line 173.
 (pdftex.def)             Requested size: 146.39133pt x 27.74078pt.
 
-[12 <./C3_11.png> <./C3_12.png>]) (./Chapter4.tex [13]
+[13 <./C3_11.png> <./C3_12.png>]) (./Chapter4.tex [14]
 Chapter 3.
-<C4_1.png, id=276, 489.83pt x 162.6075pt>
+<C4_1.png, id=286, 489.83pt x 162.6075pt>
 File: C4_1.png Graphic file (type png)
  <use C4_1.png>
 Package pdftex.def Info: C4_1.png used on input line 33.
 (pdftex.def)             Requested size: 292.77629pt x 97.19307pt.
- [14
+ [15
 
 ]
-<C4_1b.png, id=286, 435.6275pt x 326.21875pt>
+<C4_1b.png, id=296, 435.6275pt x 326.21875pt>
 File: C4_1b.png Graphic file (type png)
  <use C4_1b.png>
 Package pdftex.def Info: C4_1b.png used on input line 37.
 (pdftex.def)             Requested size: 209.12683pt x 156.60312pt.
 ) (./Chapter5.tex
-[15 <./C4_1.png> <./C4_1b.png>]
+[16 <./C4_1.png> <./C4_1b.png>]
 Chapter 4.
-<C5_1.png, id=294, 595.22375pt x 288.07625pt>
+<C5_1.png, id=304, 595.22375pt x 288.07625pt>
 File: C5_1.png Graphic file (type png)
  <use C5_1.png>
 Package pdftex.def Info: C5_1.png used on input line 17.
 (pdftex.def)             Requested size: 209.12683pt x 101.21062pt.
 
-<C5_2.png, id=295, 748.7975pt x 412.54124pt>
+<C5_2.png, id=305, 748.7975pt x 412.54124pt>
 File: C5_2.png Graphic file (type png)
  <use C5_2.png>
 Package pdftex.def Info: C5_2.png used on input line 28.
 (pdftex.def)             Requested size: 334.60422pt x 184.3451pt.
- [16
+ [17
 
  <./C5_1.png>]
-<C5_3.png, id=300, 829.0975pt x 117.43875pt>
+<C5_3.png, id=310, 829.0975pt x 117.43875pt>
 File: C5_3.png Graphic file (type png)
  <use C5_3.png>
 Package pdftex.def Info: C5_3.png used on input line 37.
 (pdftex.def)             Requested size: 334.60422pt x 47.39398pt.
 
-<C5_4.png, id=301, 717.68124pt x 151.56625pt> [17 <./C5_2.png> <./C5_3.png>]
+<C5_4.png, id=311, 717.68124pt x 151.56625pt> [18 <./C5_2.png> <./C5_3.png>]
 File: C5_4.png Graphic file (type png)
 
 <use C5_4.png>
 Package pdftex.def Info: C5_4.png used on input line 68.
 (pdftex.def)             Requested size: 209.12683pt x 44.16353pt.
- <C5_5.png, id=308, 534.99875pt x 236.885pt>
+ <C5_5.png, id=318, 534.99875pt x 236.885pt>
 File: C5_5.png Graphic file (type png)
  <use C5_5.png>
 Package pdftex.def Info: C5_5.png used on input line 82.
 (pdftex.def)             Requested size: 146.39133pt x 64.82007pt.
 
-<C5_6.png, id=309, 553.06625pt x 184.69pt>
+<C5_6.png, id=319, 553.06625pt x 184.69pt>
 File: C5_6.png Graphic file (type png)
  <use C5_6.png>
 Package pdftex.def Info: C5_6.png used on input line 88.
 (pdftex.def)             Requested size: 146.39133pt x 48.88342pt.
 
-<C5_7.png, id=310, 325.215pt x 204.765pt>
+<C5_7.png, id=320, 325.215pt x 204.765pt>
 File: C5_7.png Graphic file (type png)
  <use C5_7.png>
 Package pdftex.def Info: C5_7.png used on input line 108.
 (pdftex.def)             Requested size: 140.00266pt x 88.15033pt.
- [18 <./C5_4.png> <./C5_5.png> <./C5_6.png> <./C5_7.png>]
-<C5_8.png, id=317, 379.4175pt x 173.64874pt>
+ [19 <./C5_4.png> <./C5_5.png> <./C5_6.png> <./C5_7.png>]
+<C5_8.png, id=329, 379.4175pt x 173.64874pt>
 File: C5_8.png Graphic file (type png)
  <use C5_8.png>
 Package pdftex.def Info: C5_8.png used on input line 119.
 (pdftex.def)             Requested size: 209.12683pt x 95.71378pt.
 
-<C5_9.png, id=318, 427.5975pt x 153.57375pt>
+<C5_9.png, id=330, 427.5975pt x 153.57375pt>
 File: C5_9.png Graphic file (type png)
  <use C5_9.png>
 Package pdftex.def Info: C5_9.png used on input line 131.
 (pdftex.def)             Requested size: 146.39133pt x 52.57526pt.
- [19 <./C5_8.png> <./C5_9.png>] <C5_10.png, id=329, 522.95375pt x 241.90375pt>
+ [20 <./C5_8.png> <./C5_9.png>] <C5_10.png, id=339, 522.95375pt x 241.90375pt>
 File: C5_10.png Graphic file (type png)
  <use C5_10.png>
 Package pdftex.def Info: C5_10.png used on input line 177.
 (pdftex.def)             Requested size: 355.51817pt x 164.45546pt.
 )
-(./Chapter6.tex [20 <./C5_10.png>]
+(./Chapter6.tex [21 <./C5_10.png>]
 Chapter 5.
-<C6_1.png, id=337, 184.69pt x 297.11pt>
+<C6_1.png, id=347, 184.69pt x 297.11pt>
 File: C6_1.png Graphic file (type png)
  <use C6_1.png>
 Package pdftex.def Info: C6_1.png used on input line 8.
 (pdftex.def)             Requested size: 62.73549pt x 100.92085pt.
 
-<C6_2.png, id=338, 724.7075pt x 315.1775pt>
+<C6_2.png, id=348, 724.7075pt x 315.1775pt>
 File: C6_2.png Graphic file (type png)
  <use C6_2.png>
 Package pdftex.def Info: C6_2.png used on input line 19.
 (pdftex.def)             Requested size: 209.12683pt x 90.94707pt.
- [21
+ [22
 
  <./C6_1.png>]
-<C6_3.png, id=343, 470.75874pt x 403.5075pt>
+<C6_3.png, id=353, 470.75874pt x 403.5075pt>
 File: C6_3.png Graphic file (type png)
  <use C6_3.png>
 Package pdftex.def Info: C6_3.png used on input line 26.
 (pdftex.def)             Requested size: 146.39133pt x 125.48007pt.
 
-<C6_4.png, id=344, 243.91125pt x 196.735pt>
+<C6_4.png, id=354, 243.91125pt x 196.735pt>
 File: C6_4.png Graphic file (type png)
  <use C6_4.png>
 Package pdftex.def Info: C6_4.png used on input line 35.
 (pdftex.def)             Requested size: 146.39133pt x 118.07791pt.
- [22 <./C6_2.png> <./C6_3.png> <./C6_4.png>] <C6_5.png, id=350, 563.10374pt x 4
+ [23 <./C6_2.png> <./C6_3.png> <./C6_4.png>] <C6_5.png, id=360, 563.10374pt x 4
 42.65375pt>
 File: C6_5.png Graphic file (type png)
 
 <use C6_5.png>
 Package pdftex.def Info: C6_5.png used on input line 77.
 (pdftex.def)             Requested size: 313.69025pt x 246.59431pt.
- [23 <./C6_5.png>]
+ [24 <./C6_5.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 87.
@@ -967,164 +967,164 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 87.
 
-<C6_6.png, id=360, 598.235pt x 344.28625pt>
+<C6_6.png, id=370, 598.235pt x 344.28625pt>
 File: C6_6.png Graphic file (type png)
  <use C6_6.png>
 Package pdftex.def Info: C6_6.png used on input line 121.
 (pdftex.def)             Requested size: 146.39133pt x 84.24841pt.
- [24 <./C6_6.png>]
-<C6_7.png, id=372, 828.09375pt x 205.76875pt>
+ [25 <./C6_6.png>]
+<C6_7.png, id=383, 828.09375pt x 205.76875pt>
 File: C6_7.png Graphic file (type png)
  <use C6_7.png>
 Package pdftex.def Info: C6_7.png used on input line 157.
 (pdftex.def)             Requested size: 292.77629pt x 72.7517pt.
 ) (./Chapter7.tex
-[25 <./C6_7.png>]
+[26 <./C6_7.png>]
 Chapter 6.
-<C7_1.png, id=383, 176.66pt x 168.63pt>
+<C7_1.png, id=393, 176.66pt x 168.63pt>
 File: C7_1.png Graphic file (type png)
  <use C7_1.png>
 Package pdftex.def Info: C7_1.png used on input line 9.
 (pdftex.def)             Requested size: 146.39133pt x 139.739pt.
 
-<C7_2.png, id=384, 134.5025pt x 143.53625pt>
+<C7_2.png, id=394, 134.5025pt x 143.53625pt>
 File: C7_2.png Graphic file (type png)
  <use C7_2.png>
 Package pdftex.def Info: C7_2.png used on input line 19.
 (pdftex.def)             Requested size: 83.64944pt x 89.2675pt.
- [26
+ [27
 
  <./C7_1.png>]
-<C7_3.png, id=389, 380.42125pt x 87.32625pt>
+<C7_3.png, id=399, 380.42125pt x 87.32625pt>
 File: C7_3.png Graphic file (type png)
  <use C7_3.png>
 Package pdftex.def Info: C7_3.png used on input line 60.
 (pdftex.def)             Requested size: 209.12683pt x 48.00693pt.
- [27 <./C7_2.png>]
-<C7_4.png, id=398, 395.4775pt x 244.915pt>
+ [28 <./C7_2.png>]
+<C7_4.png, id=408, 395.4775pt x 244.915pt>
 File: C7_4.png Graphic file (type png)
  <use C7_4.png>
 Package pdftex.def Info: C7_4.png used on input line 73.
 (pdftex.def)             Requested size: 146.39133pt x 90.65823pt.
 ) (./Chapter8.tex
-[28 <./C7_3.png> <./C7_4.png>]
+[29 <./C7_3.png> <./C7_4.png>]
 Chapter 7.
-<C8_1.png, id=403, 539.01375pt x 120.45pt>
+<C8_1.png, id=413, 539.01375pt x 120.45pt>
 File: C8_1.png Graphic file (type png)
  <use C8_1.png>
 Package pdftex.def Info: C8_1.png used on input line 8.
 (pdftex.def)             Requested size: 146.39133pt x 32.71307pt.
 
-<C8_2.png, id=404, 295.1025pt x 177.66376pt>
+<C8_2.png, id=414, 295.1025pt x 177.66376pt>
 File: C8_2.png Graphic file (type png)
  <use C8_2.png>
 Package pdftex.def Info: C8_2.png used on input line 19.
 (pdftex.def)             Requested size: 146.39133pt x 88.13495pt.
- [29
+ [30
 
- <./C8_1.png> <./C8_2.png>] <C8_3.png, id=409, 374.39874pt x 256.96pt>
+ <./C8_1.png> <./C8_2.png>] <C8_3.png, id=419, 374.39874pt x 256.96pt>
 File: C8_3.png Graphic file (type png)
  <use C8_3.png>
 Package pdftex.def Info: C8_3.png used on input line 29.
 (pdftex.def)             Requested size: 146.39133pt x 100.47276pt.
 
-<C8_4.png, id=410, 981.6675pt x 319.1925pt>
+<C8_4.png, id=420, 981.6675pt x 319.1925pt>
 File: C8_4.png Graphic file (type png)
  <use C8_4.png>
 Package pdftex.def Info: C8_4.png used on input line 44.
 (pdftex.def)             Requested size: 209.12683pt x 67.99675pt.
 
-<C8_5.png, id=411, 393.47pt x 167.62625pt>
+<C8_5.png, id=421, 393.47pt x 167.62625pt>
 File: C8_5.png Graphic file (type png)
  <use C8_5.png>
 Package pdftex.def Info: C8_5.png used on input line 55.
 (pdftex.def)             Requested size: 209.12683pt x 89.09213pt.
 
-<C8_6.png, id=412, 467.7475pt x 158.5925pt>
+<C8_6.png, id=422, 467.7475pt x 158.5925pt>
 File: C8_6.png Graphic file (type png)
  <use C8_6.png>
 Package pdftex.def Info: C8_6.png used on input line 63.
 (pdftex.def)             Requested size: 209.12683pt x 70.90616pt.
- [30 <./C8_3.png> <./C8_4.png> <./C8_5.png>] <C8_01.png, id=417, 500.87125pt x 
+ [31 <./C8_3.png> <./C8_4.png> <./C8_5.png>] <C8_01.png, id=428, 500.87125pt x 
 236.885pt>
 File: C8_01.png Graphic file (type png)
 
 <use C8_01.png>
 Package pdftex.def Info: C8_01.png used on input line 86.
 (pdftex.def)             Requested size: 230.04079pt x 108.79852pt.
- [31 <./C8_6.png> <./C8_01.png>]
-<C8_7.png, id=427, 280.04625pt x 110.4125pt>
+ [32 <./C8_6.png> <./C8_01.png>]
+<C8_7.png, id=438, 280.04625pt x 110.4125pt>
 File: C8_7.png Graphic file (type png)
  <use C8_7.png>
 Package pdftex.def Info: C8_7.png used on input line 105.
 (pdftex.def)             Requested size: 146.39133pt x 57.71976pt.
 ) (./Chapter9.tex
-[32 <./C8_7.png>]
+[33 <./C8_7.png>]
 Chapter 8.
-<C9_1.png, id=432, 312.16624pt x 408.52625pt>
+<C9_1.png, id=443, 312.16624pt x 408.52625pt>
 File: C9_1.png Graphic file (type png)
  <use C9_1.png>
 Package pdftex.def Info: C9_1.png used on input line 11.
 (pdftex.def)             Requested size: 146.39133pt x 191.58348pt.
- [33
+ [34
 
  <./C9_1.png>]
-<C9_2.png, id=438, 592.2125pt x 259.97125pt>
+<C9_2.png, id=448, 592.2125pt x 259.97125pt>
 File: C9_2.png Graphic file (type png)
  <use C9_2.png>
 Package pdftex.def Info: C9_2.png used on input line 36.
 (pdftex.def)             Requested size: 209.12683pt x 91.80052pt.
 
-<C9_3.png, id=439, 282.05376pt x 142.5325pt>
+<C9_3.png, id=449, 282.05376pt x 142.5325pt>
 File: C9_3.png Graphic file (type png)
  <use C9_3.png>
 Package pdftex.def Info: C9_3.png used on input line 49.
 (pdftex.def)             Requested size: 188.21288pt x 95.11131pt.
- [34 <./C9_2.png>]
-<C9_4.png, id=445, 135.50626pt x 176.66pt>
+ [35 <./C9_2.png>]
+<C9_4.png, id=455, 135.50626pt x 176.66pt>
 File: C9_4.png Graphic file (type png)
  <use C9_4.png>
 Package pdftex.def Info: C9_4.png used on input line 68.
 (pdftex.def)             Requested size: 104.56342pt x 136.32512pt.
- [35 <./C9_3.png> <./C9_4.png>] <C9_5.png, id=454, 145.54375pt x 174.6525pt>
+ [36 <./C9_3.png> <./C9_4.png>] <C9_5.png, id=464, 145.54375pt x 174.6525pt>
 File: C9_5.png Graphic file (type png)
  <use C9_5.png>
 Package pdftex.def Info: C9_5.png used on input line 98.
 (pdftex.def)             Requested size: 62.73549pt x 75.28032pt.
 
-<C9_6.png, id=455, 220.825pt x 118.4425pt>
+<C9_6.png, id=465, 220.825pt x 118.4425pt>
 File: C9_6.png Graphic file (type png)
  <use C9_6.png>
 Package pdftex.def Info: C9_6.png used on input line 104.
 (pdftex.def)             Requested size: 146.39133pt x 78.52289pt.
 
-<C9_7.png, id=456, 375.4025pt x 168.63pt>
+<C9_7.png, id=466, 375.4025pt x 168.63pt>
 File: C9_7.png Graphic file (type png)
  <use C9_7.png>
 Package pdftex.def Info: C9_7.png used on input line 124.
 (pdftex.def)             Requested size: 146.39133pt x 65.76028pt.
- [36 <./C9_5.png> <./C9_6.png> <./C9_7.png>] <C9_8.png, id=463, 465.74pt x 210.
+ [37 <./C9_5.png> <./C9_6.png> <./C9_7.png>] <C9_8.png, id=474, 465.74pt x 210.
 7875pt>
 File: C9_8.png Graphic file (type png)
  <use C9_8.png>
 Package pdftex.def Info: C9_8.png used on input line 134.
 (pdftex.def)             Requested size: 146.39133pt x 66.25368pt.
 
-<C9_9.png, id=464, 539.01375pt x 286.06876pt>
+<C9_9.png, id=475, 539.01375pt x 286.06876pt>
 File: C9_9.png Graphic file (type png)
  <use C9_9.png>
 Package pdftex.def Info: C9_9.png used on input line 138.
 (pdftex.def)             Requested size: 146.39133pt x 77.69356pt.
 
-<C9_10.png, id=465, 308.15125pt x 227.85126pt>
+<C9_10.png, id=476, 308.15125pt x 227.85126pt>
 File: C9_10.png Graphic file (type png)
  <use C9_10.png>
 Package pdftex.def Info: C9_10.png used on input line 146.
 (pdftex.def)             Requested size: 146.39133pt x 108.24437pt.
 )
-(./Scheme-logic.tex [37 <./C9_8.png> <./C9_9.png> <./C9_10.png>]
+(./Scheme-logic.tex [38 <./C9_8.png> <./C9_9.png> <./C9_10.png>]
 Chapter 9.
-<Logic_families_scheme_v1.pdf, id=471, 614.295pt x 794.97pt>
+<Logic_families_scheme_v1.pdf, id=481, 614.295pt x 794.97pt>
 File: Logic_families_scheme_v1.pdf Graphic file (type pdf)
 
 <use Logic_families_scheme_v1.pdf>
@@ -1134,10 +1134,10 @@ File: Logic_families_scheme_v1.pdf Graphic file (type pdf)
  <use Logic_families_scheme_v1.pdf>
 Package pdftex.def Info: Logic_families_scheme_v1.pdf used on input line 2.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
- [38
+ [39
 
 ]
-<Logic_families_scheme_v1.pdf, id=478, page=1, 614.295pt x 794.97pt>
+<Logic_families_scheme_v1.pdf, id=488, page=1, 614.295pt x 794.97pt>
 File: Logic_families_scheme_v1.pdf Graphic file (type pdf)
 
 <use Logic_families_scheme_v1.pdf, page 1>
@@ -1168,34 +1168,34 @@ File: Logic_families_scheme_v1.pdf Graphic file (type pdf)
 Package pdftex.def Info: Logic_families_scheme_v1.pdf, page1 used on input line
  2.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
- [39 <./Logic_families_scheme_v1.pdf>]) (./Chapter10.tex
+ [40 <./Logic_families_scheme_v1.pdf>]) (./Chapter10.tex
 Chapter 10.
-<C10_1.png, id=490, 388.45125pt x 76.285pt>
+<C10_1.png, id=500, 388.45125pt x 76.285pt>
 File: C10_1.png Graphic file (type png)
  <use C10_1.png>
 Package pdftex.def Info: C10_1.png used on input line 11.
 (pdftex.def)             Requested size: 209.12683pt x 41.06989pt.
 
-<C10_2.png, id=491, 498.86375pt x 127.47626pt>
+<C10_2.png, id=501, 498.86375pt x 127.47626pt>
 File: C10_2.png Graphic file (type png)
  <use C10_2.png>
 Package pdftex.def Info: C10_2.png used on input line 19.
 (pdftex.def)             Requested size: 292.77629pt x 74.81546pt.
 
-<C10_3.png, id=492, 512.91624pt x 124.465pt>
+<C10_3.png, id=502, 512.91624pt x 124.465pt>
 File: C10_3.png Graphic file (type png)
  <use C10_3.png>
 Package pdftex.def Info: C10_3.png used on input line 23.
 (pdftex.def)             Requested size: 292.77629pt x 71.04643pt.
 
-<C10_4.png, id=493, 504.88625pt x 174.6525pt> [40
+<C10_4.png, id=503, 504.88625pt x 174.6525pt> [41
 
  <./C10_1.png> <./C10_2.png> <./C10_3.png>]
 File: C10_4.png Graphic file (type png)
  <use C10_4.png>
 Package pdftex.def Info: C10_4.png used on input line 31.
 (pdftex.def)             Requested size: 334.60422pt x 115.74803pt.
- <C10_5.png, id=498, 315.1775pt x 122.4575pt>
+ <C10_5.png, id=508, 315.1775pt x 122.4575pt>
 File: C10_5.png Graphic file (type png)
 
 <use C10_5.png>
@@ -1208,75 +1208,75 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 52.
 
-<C10_6.png, id=499, 380.42125pt x 160.6pt>
+<C10_6.png, id=509, 380.42125pt x 160.6pt>
 File: C10_6.png Graphic file (type png)
  <use C10_6.png>
 Package pdftex.def Info: C10_6.png used on input line 65.
 (pdftex.def)             Requested size: 209.12683pt x 88.2886pt.
- [41 <./C10_4.png> <./C10_5.png>] <C10_6_1.png, id=504, 610.28pt x 378.41376pt>
+ [42 <./C10_4.png> <./C10_5.png>] <C10_6_1.png, id=514, 610.28pt x 378.41376pt>
 File: C10_6_1.png Graphic file (type png)
  <use C10_6_1.png>
 Package pdftex.def Info: C10_6_1.png used on input line 91.
 (pdftex.def)             Requested size: 209.12683pt x 129.66943pt.
 
-[42 <./C10_6.png> <./C10_6_1.png>] <C10_6_2.png, id=514, 610.28pt x 377.41pt>
+[43 <./C10_6.png> <./C10_6_1.png>] <C10_6_2.png, id=525, 610.28pt x 377.41pt>
 File: C10_6_2.png Graphic file (type png)
 
 <use C10_6_2.png>
 Package pdftex.def Info: C10_6_2.png used on input line 108.
 (pdftex.def)             Requested size: 209.12683pt x 129.32549pt.
- <C10_7.png, id=515, 667.49374pt x 289.08pt>
+ <C10_7.png, id=526, 667.49374pt x 289.08pt>
 File: C10_7.png Graphic file (type png)
  <use C10_7.png>
 Package pdftex.def Info: C10_7.png used on input line 127.
 (pdftex.def)             Requested size: 292.77629pt x 126.7986pt.
 
-<C10_8.png, id=516, 629.35126pt x 238.8925pt>
+<C10_8.png, id=527, 629.35126pt x 238.8925pt>
 File: C10_8.png Graphic file (type png)
  <use C10_8.png>
 Package pdftex.def Info: C10_8.png used on input line 133.
 (pdftex.def)             Requested size: 209.12683pt x 79.38155pt.
- [43 <./C10_6_2.png> <./C10_7.png>] <C10_9.png, id=526, 437.635pt x 234.8775pt>
+ [44 <./C10_6_2.png> <./C10_7.png>] <C10_9.png, id=536, 437.635pt x 234.8775pt>
 File: C10_9.png Graphic file (type png)
  <use C10_9.png>
 Package pdftex.def Info: C10_9.png used on input line 139.
 (pdftex.def)             Requested size: 146.39133pt x 78.56706pt.
 
-<C10_10.png, id=527, 438.63875pt x 207.77625pt>
+<C10_10.png, id=537, 438.63875pt x 207.77625pt>
 File: C10_10.png Graphic file (type png)
  <use C10_10.png>
 Package pdftex.def Info: C10_10.png used on input line 145.
 (pdftex.def)             Requested size: 146.39133pt x 69.34311pt.
 
-<C10_11.png, id=528, 831.105pt x 263.98625pt>
+<C10_11.png, id=538, 831.105pt x 263.98625pt>
 File: C10_11.png Graphic file (type png)
  <use C10_11.png>
 Package pdftex.def Info: C10_11.png used on input line 156.
 (pdftex.def)             Requested size: 292.77629pt x 92.99272pt.
- [44 <./C10_8.png> <./C10_9.png> <./C10_10.png> <./C10_11.png>]
-<C10_12.png, id=533, 739.76375pt x 212.795pt>
+ [45 <./C10_8.png> <./C10_9.png> <./C10_10.png> <./C10_11.png>]
+<C10_12.png, id=543, 739.76375pt x 212.795pt>
 File: C10_12.png Graphic file (type png)
  <use C10_12.png>
 Package pdftex.def Info: C10_12.png used on input line 200.
 (pdftex.def)             Requested size: 292.77629pt x 84.21707pt.
 
-<C10_13.png, id=534, 654.445pt x 274.02374pt>
+<C10_13.png, id=544, 654.445pt x 274.02374pt>
 File: C10_13.png Graphic file (type png)
  <use C10_13.png>
 Package pdftex.def Info: C10_13.png used on input line 213.
 (pdftex.def)             Requested size: 209.12683pt x 87.56395pt.
- [45 <./C10_12.png>] <C10_14.png, id=542, 706.64pt x 196.735pt>
+ [46 <./C10_12.png>] <C10_14.png, id=552, 706.64pt x 196.735pt>
 File: C10_14.png Graphic file (type png)
  <use C10_14.png>
 Package pdftex.def Info: C10_14.png used on input line 217.
 (pdftex.def)             Requested size: 209.12683pt x 58.22243pt.
 
-<C10_15.png, id=543, 736.7525pt x 182.6825pt>
+<C10_15.png, id=553, 736.7525pt x 182.6825pt>
 File: C10_15.png Graphic file (type png)
  <use C10_15.png>
 Package pdftex.def Info: C10_15.png used on input line 228.
 (pdftex.def)             Requested size: 292.77629pt x 72.59503pt.
- [46 <./C10_13.png> <./C10_14.png> <./C10_15.png>]
+ [47 <./C10_13.png> <./C10_14.png> <./C10_15.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 264.
@@ -1289,58 +1289,94 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 264.
 
-<C10_16.png, id=551, 619.31375pt x 400.49625pt>
+<C10_16.png, id=561, 619.31375pt x 400.49625pt>
 File: C10_16.png Graphic file (type png)
  <use C10_16.png>
 Package pdftex.def Info: C10_16.png used on input line 268.
 (pdftex.def)             Requested size: 209.12683pt x 135.23804pt.
 
-<C10_17.png, id=552, 833.1125pt x 309.155pt>
+<C10_17.png, id=562, 833.1125pt x 309.155pt>
 File: C10_17.png Graphic file (type png)
  <use C10_17.png>
 Package pdftex.def Info: C10_17.png used on input line 279.
 (pdftex.def)             Requested size: 209.12683pt x 77.5999pt.
 
-<C10_18.png, id=553, 788.9475pt x 295.1025pt>
+<C10_18.png, id=563, 788.9475pt x 295.1025pt>
 File: C10_18.png Graphic file (type png)
  <use C10_18.png>
 Package pdftex.def Info: C10_18.png used on input line 289.
 (pdftex.def)             Requested size: 209.12683pt x 78.21979pt.
+ [48 <./C10_16.png> <./C10_17.png> <./C10_18.png>]
+<C10_19.png, id=570, 499.8675pt x 258.9675pt>
+File: C10_19.png Graphic file (type png)
+ <use C10_19.png>
+Package pdftex.def Info: C10_19.png used on input line 303.
+(pdftex.def)             Requested size: 146.39133pt x 75.84152pt.
 
-<ff.pdf, id=554, 614.295pt x 794.97pt>
+<C10_20.png, id=571, 815.045pt x 595.22375pt>
+File: C10_20.png Graphic file (type png)
+ <use C10_20.png>
+Package pdftex.def Info: C10_20.png used on input line 309.
+(pdftex.def)             Requested size: 209.12683pt x 152.72008pt.
+
+<C10_21.png, id=572, 437.635pt x 367.3725pt>
+File: C10_21.png Graphic file (type png)
+ <use C10_21.png>
+Package pdftex.def Info: C10_21.png used on input line 316.
+(pdftex.def)             Requested size: 146.39133pt x 122.88695pt.
+ [49 <./C10_19.png> <./C10_20.png> <./C10_21.png>]
+<C10_22.png, id=579, 261.97874pt x 338.26375pt>
+File: C10_22.png Graphic file (type png)
+ <use C10_22.png>
+Package pdftex.def Info: C10_22.png used on input line 323.
+(pdftex.def)             Requested size: 62.73549pt x 80.99913pt.
+
+<C10_23.png, id=580, 592.2125pt x 265.99374pt>
+File: C10_23.png Graphic file (type png)
+ <use C10_23.png>
+Package pdftex.def Info: C10_23.png used on input line 332.
+(pdftex.def)             Requested size: 209.12683pt x 93.92719pt.
+
+<C10_24.png, id=581, 726.715pt x 470.75874pt>
+File: C10_24.png Graphic file (type png)
+ <use C10_24.png>
+Package pdftex.def Info: C10_24.png used on input line 337.
+(pdftex.def)             Requested size: 209.12683pt x 135.46779pt.
+
+<ff.pdf, id=582, 614.295pt x 794.97pt>
 File: ff.pdf Graphic file (type pdf)
  <use ff.pdf>
-Package pdftex.def Info: ff.pdf used on input line 297.
+Package pdftex.def Info: ff.pdf used on input line 370.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ff.pdf Graphic file (type pdf)
  <use ff.pdf>
-Package pdftex.def Info: ff.pdf used on input line 297.
+Package pdftex.def Info: ff.pdf used on input line 370.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
- [47 <./C10_16.png> <./C10_17.png> <./C10_18.png>] [48]
-<ff.pdf, id=567, page=1, 614.295pt x 794.97pt>
+ [50 <./C10_22.png> <./C10_23.png> <./C10_24.png>]
+<ff.pdf, id=589, page=1, 614.295pt x 794.97pt>
 File: ff.pdf Graphic file (type pdf)
  <use ff.pdf, page 1>
-Package pdftex.def Info: ff.pdf, page1 used on input line 297.
+Package pdftex.def Info: ff.pdf, page1 used on input line 370.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ff.pdf Graphic file (type pdf)
 
 <use ff.pdf, page 1>
-Package pdftex.def Info: ff.pdf, page1 used on input line 297.
+Package pdftex.def Info: ff.pdf, page1 used on input line 370.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: ff.pdf Graphic file (type pdf)
  <use ff.pdf, page 1>
-Package pdftex.def Info: ff.pdf, page1 used on input line 297.
+Package pdftex.def Info: ff.pdf, page1 used on input line 370.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: ff.pdf Graphic file (type pdf)
  <use ff.pdf, page 1>
-Package pdftex.def Info: ff.pdf, page1 used on input line 297.
+Package pdftex.def Info: ff.pdf, page1 used on input line 370.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: ff.pdf Graphic file (type pdf)
 
 <use ff.pdf, page 1>
-Package pdftex.def Info: ff.pdf, page1 used on input line 297.
+Package pdftex.def Info: ff.pdf, page1 used on input line 370.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
- [49 <./ff.pdf>])
+ [51 <./ff.pdf>])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 55.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 55.
  (./DICD.aux)
@@ -1353,10 +1389,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 55.
  ) 
 Here is how much of TeX's memory you used:
- 9194 strings out of 495028
- 127187 string characters out of 6181497
+ 9232 strings out of 495028
+ 127679 string characters out of 6181497
  225379 words of memory out of 5000000
- 11947 multiletter control sequences out of 15000+600000
+ 11974 multiletter control sequences out of 15000+600000
  14971 words of font info for 57 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  41i,18n,45p,457b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1374,10 +1410,10 @@ onts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on DICD.pdf (49 pages, 2638144 bytes).
+Output written on DICD.pdf (51 pages, 3018981 bytes).
 PDF statistics:
- 924 PDF objects out of 1000 (max. 8388607)
- 747 compressed objects within 8 object streams
- 222 named destinations out of 1000 (max. 500000)
- 1081 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 954 PDF objects out of 1000 (max. 8388607)
+ 769 compressed objects within 8 object streams
+ 227 named destinations out of 1000 (max. 500000)
+ 1135 words of extra memory for PDF output out of 10000 (max. 10000000)
 
