@@ -1,84 +1,84 @@
-\contentsline {chapter}{\numberline {1}The MOS transistor}{6}{chapter.1}
-\contentsline {section}{\numberline {1.1}Symbols}{6}{section.1.1}
-\contentsline {section}{\numberline {1.2}Working regimes}{6}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Body effect}{7}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Subthreshold regime}{7}{subsection.1.2.2}
-\contentsline {section}{\numberline {1.3}Equivalent resistance}{7}{section.1.3}
-\contentsline {chapter}{\numberline {2}The CMOS inverter}{9}{chapter.2}
-\contentsline {section}{\numberline {2.1}Static behavior}{9}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Switching threshold}{10}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Noise marigns}{10}{subsection.2.1.2}
-\contentsline {section}{\numberline {2.2}Dinamic behavior}{11}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Intinsic capacitance $C_{int}$}{12}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Gate capacitance $C_{g}$}{12}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Self-loading factor}{12}{subsection.2.2.3}
-\contentsline {section}{\numberline {2.3}Propagation delay}{13}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Fan-out}{13}{subsection.2.3.1}
-\contentsline {section}{\numberline {2.4}Chain of inverters}{13}{section.2.4}
-\contentsline {chapter}{\numberline {3}Inverter power consumption}{15}{chapter.3}
-\contentsline {section}{\numberline {3.1}Dynamic power consumtion}{15}{section.3.1}
-\contentsline {section}{\numberline {3.2}Cross-conduction power consumption}{15}{section.3.2}
-\contentsline {section}{\numberline {3.3}Static power consumption}{16}{section.3.3}
-\contentsline {chapter}{\numberline {4}The wires}{17}{chapter.4}
-\contentsline {section}{\numberline {4.1}Capacitance}{17}{section.4.1}
-\contentsline {section}{\numberline {4.2}Resistance}{18}{section.4.2}
-\contentsline {section}{\numberline {4.3}Models for wires}{19}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Lumped C model}{19}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Lumped RC model}{19}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Distributed model}{20}{subsection.4.3.3}
-\contentsline {section}{\numberline {4.4}Buffering of a line}{20}{section.4.4}
-\contentsline {section}{\numberline {4.5}Inductance}{21}{section.4.5}
-\contentsline {chapter}{\numberline {5}FC-CMOS gates}{22}{chapter.5}
-\contentsline {section}{\numberline {5.1}Sizing of single transistor inside a logic gate}{22}{section.5.1}
-\contentsline {section}{\numberline {5.2}Equivalent capacitance}{22}{section.5.2}
-\contentsline {section}{\numberline {5.3}Propagation delay}{23}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Equivalent resistance}{23}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}"p" factor}{24}{subsection.5.3.2}
-\contentsline {subsection}{\numberline {5.3.3}"g" factor}{24}{subsection.5.3.3}
-\contentsline {subsection}{\numberline {5.3.4}Propagation delay}{25}{subsection.5.3.4}
-\contentsline {section}{\numberline {5.4}Size optimization of $\tau _p$}{25}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Branching}{25}{subsection.5.4.1}
-\contentsline {section}{\numberline {5.5}Power dissipation}{26}{section.5.5}
-\contentsline {chapter}{\numberline {6}Ratioed logic}{27}{chapter.6}
-\contentsline {section}{\numberline {6.1}Pseudo-NMOS}{27}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Static characteristics}{27}{subsection.6.1.1}
-\contentsline {subsection}{\numberline {6.1.2}Dynamic characteristics}{28}{subsection.6.1.2}
-\contentsline {section}{\numberline {6.2}DCVSL}{29}{section.6.2}
-\contentsline {chapter}{\numberline {7}Other static logics}{30}{chapter.7}
-\contentsline {section}{\numberline {7.1}Pass-transistor}{30}{section.7.1}
-\contentsline {subsection}{\numberline {7.1.1}Pass-transistor with level restorer}{30}{subsection.7.1.1}
-\contentsline {subsection}{\numberline {7.1.2}Swing restored pass transistor logic}{31}{subsection.7.1.2}
-\contentsline {section}{\numberline {7.2}Complementary pass-transistor logic CPL}{31}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Propagation delay}{32}{subsection.7.2.1}
-\contentsline {section}{\numberline {7.3}Trasmission gate}{33}{section.7.3}
-\contentsline {chapter}{\numberline {8}Dynamic logic}{34}{chapter.8}
-\contentsline {section}{\numberline {8.1}Static and dynamic proprieties}{34}{section.8.1}
-\contentsline {section}{\numberline {8.2}Issues in dynamic logic}{35}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Leakage current}{35}{subsection.8.2.1}
-\contentsline {subsection}{\numberline {8.2.2}Charge sharing}{36}{subsection.8.2.2}
-\contentsline {subsection}{\numberline {8.2.3}Capacitive coupling}{37}{subsection.8.2.3}
-\contentsline {subsection}{\numberline {8.2.4}Clock feedthrough}{37}{subsection.8.2.4}
-\contentsline {section}{\numberline {8.3}Cascading dynamic gates}{37}{section.8.3}
-\contentsline {subsection}{\numberline {8.3.1}Domino Logic}{37}{subsection.8.3.1}
-\contentsline {subsection}{\numberline {8.3.2}NP-CMOS dynamic}{38}{subsection.8.3.2}
-\contentsline {chapter}{\numberline {9}Scheme of all the logic families}{39}{chapter.9}
-\contentsline {chapter}{\numberline {10}Sequential circuits}{41}{chapter.10}
-\contentsline {section}{\numberline {10.1}Finite state machines (FSM)}{42}{section.10.1}
-\contentsline {subsection}{\numberline {10.1.1}Max-delay constraint}{43}{subsection.10.1.1}
-\contentsline {subsection}{\numberline {10.1.2}Min-delay constraint}{43}{subsection.10.1.2}
-\contentsline {subsection}{\numberline {10.1.3}Skew}{43}{subsection.10.1.3}
-\contentsline {subsubsection}{Positive skew}{43}{section*.2}
-\contentsline {subsubsection}{Negative skew}{44}{section*.3}
-\contentsline {section}{\numberline {10.2}Static memory devices}{44}{section.10.2}
-\contentsline {subsection}{\numberline {10.2.1}Multiplexer-based static latch}{45}{subsection.10.2.1}
-\contentsline {subsection}{\numberline {10.2.2}Multiplexer-based static flip-flop}{45}{subsection.10.2.2}
-\contentsline {subsection}{\numberline {10.2.3}Time constraints rigorous definitions}{46}{subsection.10.2.3}
-\contentsline {subsection}{\numberline {10.2.4}Brute force filp-flop}{46}{subsection.10.2.4}
-\contentsline {subsection}{\numberline {10.2.5}Clock overlap}{46}{subsection.10.2.5}
-\contentsline {section}{\numberline {10.3}Dynamic memory devices}{47}{section.10.3}
-\contentsline {subsection}{\numberline {10.3.1}$C^2 MOS$}{48}{subsection.10.3.1}
-\contentsline {subsection}{\numberline {10.3.2}True single phase clock TSPC flip-flops}{48}{subsection.10.3.2}
-\contentsline {section}{\numberline {10.4}Counters}{49}{section.10.4}
-\contentsline {subsection}{\numberline {10.4.1}Synchronous counters}{49}{subsection.10.4.1}
-\contentsline {subsection}{\numberline {10.4.2}Asynchronous counters}{50}{subsection.10.4.2}
-\contentsline {section}{\numberline {10.5}Scheme of all flip-flops implementations}{50}{section.10.5}
+\contentsline {chapter}{\numberline {1}The MOS transistor}{7}{chapter.1}
+\contentsline {section}{\numberline {1.1}Symbols}{7}{section.1.1}
+\contentsline {section}{\numberline {1.2}Working regimes}{7}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Body effect}{8}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Subthreshold regime}{8}{subsection.1.2.2}
+\contentsline {section}{\numberline {1.3}Equivalent resistance}{8}{section.1.3}
+\contentsline {chapter}{\numberline {2}The CMOS inverter}{10}{chapter.2}
+\contentsline {section}{\numberline {2.1}Static behavior}{10}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Switching threshold}{11}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Noise marigns}{11}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}Dinamic behavior}{12}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Intinsic capacitance $C_{int}$}{13}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Gate capacitance $C_{g}$}{13}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Self-loading factor}{13}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}Propagation delay}{14}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Fan-out}{14}{subsection.2.3.1}
+\contentsline {section}{\numberline {2.4}Chain of inverters}{14}{section.2.4}
+\contentsline {chapter}{\numberline {3}Inverter power consumption}{16}{chapter.3}
+\contentsline {section}{\numberline {3.1}Dynamic power consumtion}{16}{section.3.1}
+\contentsline {section}{\numberline {3.2}Cross-conduction power consumption}{16}{section.3.2}
+\contentsline {section}{\numberline {3.3}Static power consumption}{17}{section.3.3}
+\contentsline {chapter}{\numberline {4}The wires}{18}{chapter.4}
+\contentsline {section}{\numberline {4.1}Capacitance}{18}{section.4.1}
+\contentsline {section}{\numberline {4.2}Resistance}{19}{section.4.2}
+\contentsline {section}{\numberline {4.3}Models for wires}{20}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Lumped C model}{20}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Lumped RC model}{20}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Distributed model}{21}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}Buffering of a line}{21}{section.4.4}
+\contentsline {section}{\numberline {4.5}Inductance}{22}{section.4.5}
+\contentsline {chapter}{\numberline {5}FC-CMOS gates}{23}{chapter.5}
+\contentsline {section}{\numberline {5.1}Sizing of single transistor inside a logic gate}{23}{section.5.1}
+\contentsline {section}{\numberline {5.2}Equivalent capacitance}{23}{section.5.2}
+\contentsline {section}{\numberline {5.3}Propagation delay}{24}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Equivalent resistance}{24}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}"p" factor}{25}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}"g" factor}{25}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.4}Propagation delay}{26}{subsection.5.3.4}
+\contentsline {section}{\numberline {5.4}Size optimization of $\tau _p$}{26}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Branching}{26}{subsection.5.4.1}
+\contentsline {section}{\numberline {5.5}Power dissipation}{27}{section.5.5}
+\contentsline {chapter}{\numberline {6}Ratioed logic}{28}{chapter.6}
+\contentsline {section}{\numberline {6.1}Pseudo-NMOS}{28}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Static characteristics}{28}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Dynamic characteristics}{29}{subsection.6.1.2}
+\contentsline {section}{\numberline {6.2}DCVSL}{30}{section.6.2}
+\contentsline {chapter}{\numberline {7}Other static logics}{31}{chapter.7}
+\contentsline {section}{\numberline {7.1}Pass-transistor}{31}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Pass-transistor with level restorer}{31}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Swing restored pass transistor logic}{32}{subsection.7.1.2}
+\contentsline {section}{\numberline {7.2}Complementary pass-transistor logic CPL}{32}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Propagation delay}{33}{subsection.7.2.1}
+\contentsline {section}{\numberline {7.3}Trasmission gate}{34}{section.7.3}
+\contentsline {chapter}{\numberline {8}Dynamic logic}{35}{chapter.8}
+\contentsline {section}{\numberline {8.1}Static and dynamic proprieties}{35}{section.8.1}
+\contentsline {section}{\numberline {8.2}Issues in dynamic logic}{36}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Leakage current}{36}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Charge sharing}{37}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.3}Capacitive coupling}{38}{subsection.8.2.3}
+\contentsline {subsection}{\numberline {8.2.4}Clock feedthrough}{38}{subsection.8.2.4}
+\contentsline {section}{\numberline {8.3}Cascading dynamic gates}{38}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}Domino Logic}{38}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}NP-CMOS dynamic}{39}{subsection.8.3.2}
+\contentsline {chapter}{\numberline {9}Scheme of all the logic families}{40}{chapter.9}
+\contentsline {chapter}{\numberline {10}Sequential circuits}{42}{chapter.10}
+\contentsline {section}{\numberline {10.1}Finite state machines (FSM)}{43}{section.10.1}
+\contentsline {subsection}{\numberline {10.1.1}Max-delay constraint}{44}{subsection.10.1.1}
+\contentsline {subsection}{\numberline {10.1.2}Min-delay constraint}{44}{subsection.10.1.2}
+\contentsline {subsection}{\numberline {10.1.3}Skew}{44}{subsection.10.1.3}
+\contentsline {subsubsection}{Positive skew}{44}{section*.2}
+\contentsline {subsubsection}{Negative skew}{45}{section*.3}
+\contentsline {section}{\numberline {10.2}Static memory devices}{45}{section.10.2}
+\contentsline {subsection}{\numberline {10.2.1}Multiplexer-based static latch}{46}{subsection.10.2.1}
+\contentsline {subsection}{\numberline {10.2.2}Multiplexer-based static flip-flop}{46}{subsection.10.2.2}
+\contentsline {subsection}{\numberline {10.2.3}Time constraints rigorous definitions}{47}{subsection.10.2.3}
+\contentsline {subsection}{\numberline {10.2.4}Brute force filp-flop}{47}{subsection.10.2.4}
+\contentsline {subsection}{\numberline {10.2.5}Clock overlap}{47}{subsection.10.2.5}
+\contentsline {section}{\numberline {10.3}Dynamic memory devices}{48}{section.10.3}
+\contentsline {subsection}{\numberline {10.3.1}$C^2 MOS$}{49}{subsection.10.3.1}
+\contentsline {subsection}{\numberline {10.3.2}True single phase clock TSPC flip-flops}{49}{subsection.10.3.2}
+\contentsline {section}{\numberline {10.4}Counters}{50}{section.10.4}
+\contentsline {subsection}{\numberline {10.4.1}Synchronous counters}{50}{subsection.10.4.1}
+\contentsline {subsection}{\numberline {10.4.2}Asynchronous counters}{51}{subsection.10.4.2}
+\contentsline {section}{\numberline {10.5}Scheme of all flip-flops implementations}{51}{section.10.5}
